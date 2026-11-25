@@ -1,0 +1,1 @@
+print("Line1 : my name is jatin singh\nLine2 : i am a btech cse student\nLine3 : i am a python programmer")
